@@ -12,11 +12,15 @@ namespace N {
         // loading declaration
         int usernameIndex=0;
         int pwIndex=0;
+        int amountIndex=0;
         string _arrUsername[100];
         string _arrPassword[100];
+        string _amount[100];
         //attributes declaration
         string l_username;
         string l_password;
+        string r_username;
+        string r_password;
         // method declaration
         void welcome();
         void mainMenu();
@@ -26,6 +30,7 @@ namespace N {
         int userNameExit(string username);
         int exchange();
         void showAllData();
+        int _mainLoading();
 
     private:
 

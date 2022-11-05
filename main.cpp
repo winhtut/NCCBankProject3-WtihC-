@@ -5,15 +5,14 @@ using namespace N;
 
 int main() {
     bank obj;
-    obj.welcome();
+    obj._mainLoading();
 
     return 0;
 }
 
 
 /*
- * program စတာနဲ့ Loading လုပ်မယ်။
--id -  username - amount - password - transition record
-- file ->loading ->array
-- fileclear-> array ထဲက data တွေကို  file ထဲကို ပြန်ထည့်မှာ
+ file ထဲမှ အားလုံးကို ပြန်ဆွဲထုတ်တဲ့အ ဆင့်ပြီးပါပြီ။
+ program ထွက်မည့် အချိန်တွင် file ထဲသို့ data များအား ပြန်ရိုက်ထည့်ပေးရန် လိုအပ်ပါသေးသည်။
  */
+
