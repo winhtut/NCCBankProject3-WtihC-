@@ -6,6 +6,7 @@ using namespace N;
 int main() {
     bank obj;
     obj._mainLoading();
+    obj.mainMenu();
 
     return 0;
 }

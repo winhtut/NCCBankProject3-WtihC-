@@ -1,5 +1,4 @@
-ncc@gmail.com 123 5000
-winhtut@gmail.com 123 3000
-national@gmail.com 123 4000
-htut@gmail.com 123 3000
-myanmar@mail.com 123 6000
+winhtut@gmail.com 123 2000
+nero@gmail.com 123 5000
+matrix@gmail.com 123 1000
+vij@gmail.com 123 3000

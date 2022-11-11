@@ -13,6 +13,9 @@ namespace N {
         int usernameIndex=0;
         int pwIndex=0;
         int amountIndex=0;
+        string admin[5]={"admin1@gmail.com" , "admin2@gmail.com" , "admin3@gmail.com"};
+        string adminpw[5]={"admin" , "admin" , "admin"};
+
         string _arrUsername[100];
         string _arrPassword[100];
         string _amount[100];
@@ -31,6 +34,10 @@ namespace N {
         int exchange();
         void showAllData();
         int _mainLoading();
+        int _recording();
+        int adminchecking(string adname , string adpw);
+        int adminOptionfun();
+        int sepcificInformation();
 
     private:
 
